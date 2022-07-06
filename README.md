@@ -6,11 +6,11 @@ Hi, I'm a 25 year old 𝗙𝘂𝗹𝗹𝗦𝘁𝗮𝗰𝗸 W𝗲𝗯 𝗗𝗲�
 # 📌 My Projects:
 ## SoundWave
 ![rsz_sw](https://user-images.githubusercontent.com/11370770/177621552-430107a8-5b9c-4152-b1ca-9f1a662cfb96.png)
-https://soundwave-swart.vercel.app/explo
+https://github.com/SoundWavePF/ || https://soundwave-swart.vercel.app/explo
 <br>
 ## explorer
 ![rsz_explorer](https://user-images.githubusercontent.com/11370770/177622582-553a8f8a-c65a-4967-8d57-6928acd2ad1c.png)
-https://explorer-liart.vercel.app/
+https://github.com/JavierOchoa/explorer/ || https://explorer-liart.vercel.app/
 
 You can see more on my pinned repos
 
