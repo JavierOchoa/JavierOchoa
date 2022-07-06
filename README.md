@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi, I'm a 25 year old 𝗙𝘂𝗹𝗹𝗦𝘁𝗮𝗰𝗸 W𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 from Cartagena, Colombia 🇨🇴
+Hi, I'm Javier a 25 year old FullStack Web Developer from Cartagena, Colombia 🇨🇴
+<br>
+<br>
+In 2020 I graduated as Industrial Engineer but as I always been passionate about coding and learning new skills that allow me to approach different problems I decided to start a new chapter in my life as a developer in Henry Bootcamp and I been loving every minute of it as I gained a lot of practice in frontend and backend thanks to multiple projects I been doing here.
+<br>
 <br>
 🌱 I’m currently learning Docker
 
