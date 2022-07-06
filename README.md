@@ -3,7 +3,7 @@ Hi, I'm a 25 year old 𝗙𝘂𝗹𝗹𝗦𝘁𝗮𝗰𝗸 W𝗲𝗯 𝗗𝗲�
 <br>
 🌱 I’m currently learning Docker
 
-📌 My Projects:
+# 📌 My Projects:
 ## SoundWave
 ![rsz_sw](https://user-images.githubusercontent.com/11370770/177621552-430107a8-5b9c-4152-b1ca-9f1a662cfb96.png)
 https://soundwave-swart.vercel.app/explo
