@@ -3,9 +3,9 @@
 <h3 align="center" >In 2020 I graduated as Industrial Engineer but as I always been passionate about coding and learning new skills that allow me to approach different problems I decided to start a new chapter in my life as a developer in Henry Bootcamp and I been loving every minute of it as I gained a lot of practice in frontend and backend thanks to multiple projects I been doing here.</h3>
 <br>
 <br>
-🌱 I’m currently learning Docker
+<p align="center">🌱 I’m currently learning Docker</p>
 
-# 📌 My Projects:
+# 📌 My Recent Projects:
 ## SoundWave
 ![rsz_sw](https://user-images.githubusercontent.com/11370770/177621552-430107a8-5b9c-4152-b1ca-9f1a662cfb96.png)
 https://github.com/SoundWavePF/ || https://soundwave-swart.vercel.app/
