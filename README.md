@@ -31,7 +31,7 @@ In 2020 I graduated as Industrial Engineer but as I always been passionate about
 <br>
 ✉️ jochoaalv@gmail.com
 <div>
-    <a href="https://www.javierochoa.dev">https://www.javierochoa.dev</a>
+    <a href="https://www.javierochoa.me">https://www.javierochoa.dev</a>
 </div>
 
 # 💻 Tech Stack:
