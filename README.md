@@ -5,13 +5,11 @@
 
 ## 💫 About Me:
 
-- 🔭 I’m currently working on [ScreenId](https://github.com/JavierOchoa/ScreenId)
-
-- 🌱 I’m currently learning **NestJs**
+- 🔭 I’m currently working on [FanShop](https://github.com/JavierOchoa/FanShop)
 
 - 👨‍💻 All of my projects are available at [https://www.javierochoa.me/](https://www.javierochoa.me/)
 
-- 📄 Know about my experiences [here](https://www.javierochoa.me/api/resume_en)
+- 📄 [Resume](https://www.javierochoa.me/api/resume_en)
 
 
 ## 📌 Recent Projects:
