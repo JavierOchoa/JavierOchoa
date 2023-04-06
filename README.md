@@ -5,7 +5,7 @@
 
 ## 💫 About Me:
 
-- 🔭 I’m currently working on [FanShop](https://github.com/JavierOchoa/FanShop)
+- 🌱 I’m currently learning **Ruby**
 
 - 👨‍💻 All of my projects are available at [https://www.javierochoa.me/](https://www.javierochoa.me/)
 
@@ -14,9 +14,15 @@
 
 ## 📌 Recent Projects:
 
+* __FanShop__: Online store where people can purchase clothes using paypal and see all their order information on their account dashboard. The
+website also has a fully working admin panel to add, edit or remove information about products and users. [APP](https://fanshop.vercel.app/) || [REPO](https://github.com/JavierOchoa/FanShop)
+
+* __ScreenId__: Discover information about movies or tv shows, like production info, promotional media, seasons, social networks, detailed actors info and save those movies/tv shows to favorites and leave reviews. [APP](https://screen-id.vercel.app/) || [REPO](https://github.com/JavierOchoa/ScreenId)
+
 * __SoundWave__: Music streaming website that allows users to listen music for free, donate to artists, request to become an artist and upload
 your own music. [APP](https://soundwave-swart.vercel.app/) || [REPO](https://github.com/SoundWavePF/)
-* explorer: Country explorer website to know basic information and activities about any country. Visitors can contribute by creating ac-
+
+* __explorer__: Country explorer website to know basic information and activities about any country. Visitors can contribute by creating ac-
 tivities that can be seen on the specified countries. [APP](https://explorer-liart.vercel.app/) || [REPO](https://github.com/JavierOchoa/explorer/)
 
 <p align="center">You can see more on my pinned repos</p>
