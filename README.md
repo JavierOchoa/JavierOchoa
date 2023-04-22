@@ -5,7 +5,7 @@
 
 ## 💫 About Me:
 
-- 🌱 I’m currently learning **Ruby**
+- 🌱 I’m currently learning **PHP**
 
 - 👨‍💻 All of my projects are available at [https://www.javierochoa.me/](https://www.javierochoa.me/)
 
