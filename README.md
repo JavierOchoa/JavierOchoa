@@ -5,8 +5,6 @@
 
 ## 💫 About Me:
 
-- 🌱 I’m currently learning **PHP**
-
 - 👨‍💻 All of my projects are available at [https://www.javierochoa.me/](https://www.javierochoa.me/)
 
 - 📄 [Resume](https://www.javierochoa.me/api/resume_en)
